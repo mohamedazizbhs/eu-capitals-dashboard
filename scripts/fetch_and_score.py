@@ -1,4 +1,3 @@
-```python
 import csv, json, math, time
 import requests
 
@@ -107,4 +106,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+
